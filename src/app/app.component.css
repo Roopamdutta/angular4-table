@@ -14,3 +14,9 @@ td, th {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+.table-img{
+    height:50px; 
+    width:50px; 
+    border-radius:50%
+}
