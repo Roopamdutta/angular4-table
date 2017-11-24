@@ -16,7 +16,7 @@ tr:nth-child(even) {
 }
 */
 
-.all{
+.row{
     height: 300px;
     width: 800px;
     overflow: auto;
